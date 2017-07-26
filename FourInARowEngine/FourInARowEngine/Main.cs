@@ -23,7 +23,8 @@ class FourInARowEngine
             int d = Programs.DefendingProgram(board);
             if (!MoveLegalCheck(d))
             {
-                Console.WriteLine("Defender makes illegal move! Attacker wins.");
+                Console.WriteLine("Defender makes illegal move! Attacker wins. Please press any key to continue.");
+                Console.ReadKey();
                 return;
             }
             bool foundD = false;
@@ -43,6 +44,8 @@ class FourInARowEngine
             ShowBoard();
             if(WinCheck())
             {
+                Console.WriteLine("Please press any key to continue.");
+                Console.ReadKey();
                 return;
             }
 
@@ -51,7 +54,8 @@ class FourInARowEngine
             int a = Programs.AttackingProgram(board);
             if (!MoveLegalCheck(a))
             {
-                Console.WriteLine("Attacker makes illegal move! Defender wins.");
+                Console.WriteLine("Attacker makes illegal move! Defender wins. Please press any key to continue.");
+                Console.ReadKey();
                 return;
             }
             bool foundA = false;
@@ -71,6 +75,8 @@ class FourInARowEngine
             ShowBoard();
 			if (WinCheck())
 			{
+                Console.WriteLine("Please press any key to continue.");
+                Console.ReadKey();
 				return;
 			}
 
