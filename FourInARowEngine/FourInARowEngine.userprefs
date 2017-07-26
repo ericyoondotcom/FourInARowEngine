@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A0B5DC23-F3EF-42AF-B3D5-25DE71B44643}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FourInARowEngine/Programs.cs">
+    <Files>
+      <File FileName="FourInARowEngine/Main.cs" Line="134" Column="64" />
+      <File FileName="FourInARowEngine/Programs.cs" Line="12" Column="77" />
+      <File FileName="FourInARowEngine/enums.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FourInARowEngine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/yooniverse/Documents/FourInARowEngine/FourInARowEngine/bin/Debug/FourInARowEngine.exe
+/Users/yooniverse/Documents/FourInARowEngine/FourInARowEngine/bin/Debug/FourInARowEngine.pdb
+/Users/yooniverse/Documents/FourInARowEngine/FourInARowEngine/obj/x86/Debug/FourInARowEngine.csproj.CoreCompileInputs.cache
+/Users/yooniverse/Documents/FourInARowEngine/FourInARowEngine/obj/x86/Debug/FourInARowEngine.exe
+/Users/yooniverse/Documents/FourInARowEngine/FourInARowEngine/obj/x86/Debug/FourInARowEngine.pdb
